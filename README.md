@@ -1,4 +1,4 @@
-# Simple Command Line app to search files by extention
+# Simple Command Line app to search and list files by extention
 
 that:
 - prints search and counts number of files in a directory or sub-directory given a search term
